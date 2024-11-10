@@ -1,3 +1,5 @@
+#To jest mój wkład
+
 # Copyright (C) 2001-2010 Python Software Foundation
 # Author: Barry Warsaw
 # Contact: email-sig@python.org
